@@ -12,8 +12,6 @@ Many have contributed through ideas and conversations, currently looking to grow
 
 **Jose E. Gonzalez** - Translated into Spanish the Wyoming DAO and UCC laws.  Research on stable coins and offers a unique perspective. Supports legal services provided through BlockLegal and other jurisdictional firms.
 
-**Adam Greenfader** - Serial Entreprenuer, HOA specialist, deeply involved with the tragedy in Surfside Fl, in which an HOA failed to maintain and properly repair critical infrastructure.
-
 **Tucker Trussell** - Working with collective organizations to put their documents, process & membership records in trust form. Assisting with product and development for minting needs.
 
 **Yhyo** - Computer Science student from Morocco that has been helping with dev tasks as we patiently wind our way down and better define our roadmap.
