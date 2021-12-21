@@ -13,21 +13,23 @@ However, it should be able to exist on it's own as an open tool that provides mu
 * Base Token Standard (20, 721, 1155)
 * Name, Acronym, Supply, Original Token Holders
 * Admin enabled or not (20, 721, 1155, MOL)
-* Chain to deploy it on
+* Chain for deployment
 * DAO enabled or not (20)
 * Distribution enabled or not (20 / 1155)
 * Documents to be attached or other files it represents (721 / 1155)
 * AMM enabled or not (20 / 1155)
 
+This tool alone will fuel what is needed in order to denote a real world asset via token.  There are two workflows for how this would operate depending on needs and requirements for the token:
 
+### **Non-Fungible Tokens**
 
-This tool alone will fuel what is needed in order to denote a real world asset via token.  There are two workflows for how this would operate depending on if there are already legal documents associated with this asset.
+Because Operating Agreements are typically private documents, the only information that you need to attach to the NFT is an image or PDF of the title along with any other documents deemed appropriate for the asset in question.\
+\
+Metadata would be editable by owner, or point to location that is editable by DAO or other entity.  In the same way NFTs are being used to represent digital art, we would use the standard to point directly to a title or other proof of ownership and value creating a 1:1 bond with the ability to sell.  \
+\
+I foresee this token being used allow entry to the property, used as collateral in DeFi applications or as just a more efficient manner to perform future sales of the underlying asset.
 
-**Title NFT**
-
-Because Operating Agreements are typically private documents, the only information that you need to attach to the NFT is an image or PDF of the title along with any other documents deemed appropriate for the asset in question.
-
-**Tokenization**
+### **ERC20DAO Fungible Tokens**
 
 There needs to exist a link in the documents used by the group and the address performing the mint in order to prove that the mint was authorized.  At the end of the day, all that really matters is that the token holders can verify the authenticity of their token and that it hold up in a court of law.
 
@@ -45,5 +47,5 @@ While a flat fee can be provided in order to use the standard minter, other func
 
 Doing this process alone can increase the value of your asset intrinsically.  Just minting a token that represents ownership in an LLC and then adding it to a platform such as uniswap is one way to revaluate your asset above what the normal appraisal process would traditionally assign it.  You can then use that token to pay for goods and services rather than taking out a home equity line of credit, which costs thousands of dollars and requires you to make monthly payments towards. &#x20;
 
-The LEGT DAO will be the first of its kind as an admin enabled ERC20 DAO token.
+The LEGT DAO will be the first of its kind as an admin enabled ERC20 DAO token.  For already existing tokens there will be a bridge or wrapper created to allow for interoperability with legacy tokens without having to re-mint.
 
