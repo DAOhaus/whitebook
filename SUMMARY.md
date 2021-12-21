@@ -13,6 +13,7 @@
 * [Use Cases](use-cases/README.md)
   * [Multiunits and Subdivisions](use-cases/multiunits-and-subdivisions.md)
   * [Seller Financing](use-cases/seller-financing.md)
+  * [HOA Competitor](use-cases/hoa-competitor.md)
 * [Ecosystem Roles & Incentives](ecosystem-roles-and-incentives.md)
 * [License](license.md)
 * [Contributors](contributors.md)
