@@ -1,0 +1,15 @@
+# Table of contents
+
+* [👋🏼  Intro](README.md)
+  * [2.0 Ideology](intro/2.0-ideology.md)
+  * [My History](intro/my-history.md)
+  * [Brand](intro/brand.md)
+* [Why](why.md)
+* [What](what/README.md)
+  * [RWA MINTING](what/rwa-minting.md)
+  * [LEGT DAO TOKEN](what/legt-dao-token.md)
+  * [NFT LENDING](what/nft-lending.md)
+  * [LEGT STAKING](what/legt-staking.md)
+* [Ecosystem Roles & Incentives](ecosystem-roles-and-incentives.md)
+* [License](license.md)
+* [Contributors](contributors.md)
