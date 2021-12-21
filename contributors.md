@@ -16,9 +16,9 @@ Many have contributed through ideas and conversations, currently looking to grow
 
 **Tucker Trussell** - Working with collective organizations to put their documents, process & membership records in trust form. Assisting with product and development for minting needs.
 
-**Yhyo** - Computer Science student that has been helping with dev tasks as we patiently wind our way down and better define our roadmap.
+**Yhyo** - Computer Science student from Morocco that has been helping with dev tasks as we patiently wind our way down and better define our roadmap.
 
-**Academic** - ISO -&#x20;
+**YOU** - Join our efforts to build products at the convergence of Crypto, Defi and Real Estate
 
-**Marketing** - ISO -  Zan
+
 

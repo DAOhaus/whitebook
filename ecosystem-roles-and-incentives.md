@@ -4,17 +4,20 @@ description: Who gets what for how much
 
 # Ecosystem Roles & Incentives
 
-**Individual Token Dynamics:**
+**RWA Token Dynamics:**
 
-Customer: Gives asset, People who optimize profit via non-traditional assets
+Customer: \
+People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet.&#x20;
 
-Employee (Manager) >7% of revenue
+Manager-Customer : \
+7% of revenue.
 
-Shareholder (Capital) 10%
+LEGT DAO: \
+10% of revenue&#x20;
 
 
 
-**LEGT Dynamics:**
+**LEGT DAO Dynamics:**
 
 Business (LEGT DAO) 30%
 

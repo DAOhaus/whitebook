@@ -4,4 +4,4 @@ description: Business Source License 1.1
 
 # License
 
-The mission, should we choose to accept it, is to build this together. Ideas are my own, would love continued collaboration and in building this world changing technology.
+If you want to help build this, please reach out and let's make it happen.  Ideas outlined are largely my own, with many bits interwoven and tied together from conversations over the years.&#x20;
