@@ -1,9 +1,9 @@
 # Table of contents
 
-* [👋🏼  Intro](README.md)
-  * [2.0 Ideology](intro/2.0-ideology.md)
-  * [My History](intro/my-history.md)
-  * [Brand](intro/brand.md)
+* [👋🏼  White Book Intro](README.md)
+  * [Đ2.0 Ideology](white-book-intro/d2.0-ideology.md)
+  * [My History](white-book-intro/my-history.md)
+  * [Brand](white-book-intro/brand.md)
 * [Why](why.md)
 * [What](what/README.md)
   * [RWA MINTING](what/rwa-minting.md)
