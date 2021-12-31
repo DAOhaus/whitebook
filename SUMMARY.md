@@ -17,4 +17,4 @@
   * [HOA Competitor](use-cases/hoa-competitor.md)
 * [Ecosystem Roles & Incentives](ecosystem-roles-and-incentives.md)
 * [License](license.md)
-* [Special Thanks](special-thanks.md)
+* [Thanks](thanks.md)
