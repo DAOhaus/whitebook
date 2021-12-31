@@ -4,4 +4,4 @@ description: Business Source License 1.1
 
 # License
 
-If you want to help build this, please reach out and let's make it happen.  Ideas outlined are largely my own, with many bits interwoven and tied together from conversations over the years.&#x20;
+If you want to help build this, please reach out and let's make it happen.  Ideas outlined are largely my own.  Naturally many bits are interwoven and tied together from existing projects and conversations over the years.

@@ -2,7 +2,7 @@
 description: Different strokes from different folks
 ---
 
-# Contributors
+# Special Thanks
 
 Many have contributed through ideas and conversations, currently looking to grow the team and am grateful to all those who are willing to continue to give their time as our mission materializes.
 
@@ -14,9 +14,11 @@ Many have contributed through ideas and conversations, currently looking to grow
 
 **Tucker Trussell** - Working with collective organizations to put their documents, process & membership records in trust form. Assisting with product and development for minting needs.
 
-**Yhyo** - Computer Science student from Morocco that has been helping with dev tasks as we patiently wind our way down and better define our roadmap.
+**Yhyo** - Computer Science intern from Morocco that has been helping with dev tasks as we patiently wind our way on this path.
 
-**YOU** - Join our efforts to build products at the convergence of Crypto, Defi and Real Estate
+**Skye Jensen** - Providing space and initial assets to tokenize into the system.  Systems support, patience and vigor in growing and empowering community.
+
+**YOU** - Join our efforts to build products at the convergence of Crypto, Defi and Real World Assets.
 
 
 

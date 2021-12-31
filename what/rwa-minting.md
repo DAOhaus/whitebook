@@ -21,7 +21,7 @@ However, it should be able to exist on it's own as an open tool that provides mu
 
 This tool alone will fuel what is needed in order to denote a real world asset via token.  There are two workflows for how this would operate depending on needs and requirements for the token:
 
-### **Non-Fungible Tokens**
+### **Non-Fungible Tokens: NFT**
 
 Because Operating Agreements are typically private documents, the only information that you need to attach to the NFT is an image or PDF of the title along with any other documents deemed appropriate for the asset in question.\
 \
@@ -29,7 +29,7 @@ Metadata would be editable by owner, or point to location that is editable by DA
 \
 I foresee this token being used allow entry to the property, used as collateral in DeFi applications or as just a more efficient manner to perform future sales of the underlying asset.
 
-### **ERC20DAO Fungible Tokens**
+### **Fungible DAO Tokens: ERC20DAO**
 
 There needs to exist a link in the documents used by the group and the address performing the mint in order to prove that the mint was authorized.  At the end of the day, all that really matters is that the token holders can verify the authenticity of their token and that it hold up in a court of law.
 

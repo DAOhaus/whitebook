@@ -1,5 +1,5 @@
 ---
-description: If the right man uses the wrong means, the wrong means work in the right way
+description: When the right man uses the wrong means, the wrong means work in the right way
 ---
 
 # What
@@ -17,6 +17,8 @@ At the core of this ecosystem is an emerging token standard that creates an admi
 * ERC20 compliant so as to work with tools like Uniswap and Snapshot
 * Own and transfer tokens
 
-I believe these to be the features required to create a baseline DAO token.  There are many DAO models and experiments going on the space and as such I expect there to be additions made along the way allowing an end user to pick and choose functionality they wish to bake into the token upon creation.
+I believe these to be the features required to create a baseline DAO token and plan to create an EIP in order to create it's own token standard, if one does not already exist that provides these needed functionalities. &#x20;
 
-When the admin in such a token is paired with a lawyer or otherwise obligated third party such as the executor of a trust, this creates the foundation used for **Legally Enforceable Governance Tokens.**
+Eventually we will integrate all sorts of models such as Moloch & Aragon or other popular DAO frameworks for minter to choose from on creation depending on their needs.  There are many DAO experiments going on in the space and as such I expect there to be additions, alterations and pivots made along the way.
+
+Part of our special sauce is that when the admin in such a token is paired with a lawyer or otherwise obligated third party such as the executor of a trust, this creates the foundation used for the base to all **Legally Enforceable Governance Tokens** that we mint  🖨 &#x20;
