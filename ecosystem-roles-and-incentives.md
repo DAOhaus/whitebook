@@ -4,7 +4,7 @@ description: Who gets what for how much
 
 # Ecosystem Roles & Incentives
 
-### **RWA Tokens (Mint & Token Specific)**
+### **RWA Tokens - Mint & Token Specific**
 
 **Customer:** \
 People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet. \

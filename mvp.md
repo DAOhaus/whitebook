@@ -6,7 +6,7 @@ description: NFT Trust Creator & Revenue Split
 
 The MVP should serve as the base app for our 4 major anticipated markets and users: Residential, Commercial, Raw Land & Multiunit.  This document is to outline the user story associated with each of them as a requirements list for what the MVP will be able to perform.
 
-### User Alex
+### Alex
 
 type: Livable Space\
 codename: Apartment\
@@ -16,7 +16,7 @@ Alex has noticed that their home has 3 bedrooms when they only need 1 and wouldn
 
 ###
 
-### User Bob
+### Bob
 
 type: LAND / TRUST \
 codename: Base\
@@ -26,22 +26,23 @@ Bob has 80 acres, needs to address utilities, engineering and construction tasks
 
 
 
-### User Carolina
+### Carolina
 
 type: DAO Minting\
 codename: AOA \ Company\
 desc: An operating agreements between members\
 \
-{{changing meta-data of a NFT}}
+A private group has decided to enter an agreement to manage an airbnb via smart contract.  Interest, voting rights and distributions in this group are denoted in crypto currency and as such the rule. Standard Creation and compliance important here, where needs to be compliant with Open Sea, Uniswap and the Defi ecosystem at large, specifically through the ability for a ERC20DAO token can update its metadata via vote.\
 
 
 
-### User ĐAO HOA
 
-Community Governance & Tax System
+### HOAĐAO&#x20;
+
+Tax & Community Governance System
 
 type: Smart City\
-codename: Diagon Alley \
-desc: NFT enabled smart locks and other hardware solutions to empower \
+codename: Điagon\
+desc: NFT enabled smart locks and other hardware solutions to empower policy decisions and enforce community established funds and policies through bounty and policy updates.\
 \
-{{ an entire physically represented system that operates completely in a closed crypto currency circuit }}
+{{ an entire physically represented system that operates completely in a closed crypto currency circuit - smart city mvp }}
