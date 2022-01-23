@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋🏼 Intro](README.md)
+* [Intro](README.md)
   * [Đ2.0 Ideology](intro/d2.0-ideology.md)
   * [Context](intro/context.md)
   * [Brand](intro/brand.md)
@@ -15,6 +15,7 @@
   * [Multiunits and Subdivisions](use-cases/multiunits-and-subdivisions.md)
   * [Seller Financing](use-cases/seller-financing.md)
   * [HOA Competitor](use-cases/hoa-competitor.md)
+  * [Mortgage](use-cases/mortgage.md)
 * [MVP](mvp.md)
 * [Ecosystem Roles & Incentives](ecosystem-roles-and-incentives.md)
 * [License](license.md)

@@ -24,7 +24,13 @@ Performs real world reclaiming and selling of asset in case of the need to liqui
 
 Incentivize Early Adopters: 30%
 
+* Token Drop to Airbnb and other short term rental owners
+* Fund liquidity providing rewards for early stakers and farmers
+
 Strategic Partnerships: 20%
+
+* Project partners that require stake in the company in order to be involved
+* Advisors, Audits & Professional Services
 
 Team & Bounties 50% -- incentivizes the following principal actions:&#x20;
 
