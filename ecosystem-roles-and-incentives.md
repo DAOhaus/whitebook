@@ -9,20 +9,20 @@ description: Who gets what for how much
 **Customer:** \
 People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet. \
 \
-**Mint** **Fee:**\
+**Mint, Manage & LP** **Fee:**\
 ****Variable fee amount determined by services needed during mint, anywhere from 2%-50%.
 
 **Manager:** \
-Person in charge of operating the asset and translates off-chain revenue into our blockchain ecosystem.
+Person in charge of operating the asset and translates off-chain revenue into our blockchain ecosystem, receives a % of the generated profits.
 
 **Liquidator:**\
-Performs real world reclaiming and selling of asset in case of the need to liquidate.  Fee based by swing in asset price willing to tolerate as determined at moment of mint.&#x20;
+Performs real world reclaiming and selling off of asset in case of the need to liquidate.  Fee based by swing in asset price willing to tolerate as determined at moment of mint.&#x20;
 
 
 
-### **LEGT DAO**
+### **LEGT DAO Tokenomics**&#x20;
 
-Incentivize Early Adopters: 30%
+Incentivize Early Adopters & Participation: 30%
 
 * Token Drop to Airbnb and other short term rental owners
 * Fund liquidity providing rewards for early stakers and farmers
@@ -32,7 +32,7 @@ Strategic Partnerships: 20%
 * Project partners that require stake in the company in order to be involved
 * Advisors, Audits & Professional Services
 
-Team & Bounties 50% -- incentivizes the following principal actions:&#x20;
+Team & Bounties: 50%
 
 * Approving deals to come into its ecosystem by assessing the risk of forecasted revenue and costs associated with liquidations
 * Find, onboard and manage the assets in it's ecosystem, including liquidations
