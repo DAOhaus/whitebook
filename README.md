@@ -6,7 +6,7 @@ description: >-
 
 # Intro
 
-`The ultimate use of the house is not in its walls, but in that part where nothing exists. Like a bowl; its usefulness comes from what is not` \
+`The ultimate use of the house is not in its walls, but in that part where nothing exists. Profit comes from what is there, usefulness from what is not.`\
 `- Lao Tzu #11`\
 ****
 
