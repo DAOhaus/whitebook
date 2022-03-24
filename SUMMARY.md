@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Intro](README.md)
-  * [Đ2.0 Ideology](intro/d2.0-ideology.md)
-  * [Context](intro/context.md)
-  * [Brand](intro/brand.md)
+* [£](README.md)
+  * [Đ2.0 Ideology](gbp/d2.0-ideology.md)
+  * [Context](gbp/context.md)
+  * [Brand](gbp/brand.md)
 * [Why](why.md)
 * [What](what/README.md)
   * [RWA MINTING](what/rwa-minting.md)
