@@ -1,9 +1,9 @@
 # Table of contents
 
-* [£](README.md)
-  * [Đ2.0 Ideology](gbp/d2.0-ideology.md)
-  * [Context](gbp/context.md)
-  * [Brand](gbp/brand.md)
+* [L£GT](README.md)
+  * [Đ2.0 Ideology](lgbpgt/d2.0-ideology.md)
+  * [Context](lgbpgt/context.md)
+  * [Ecosystem](lgbpgt/ecosystem.md)
 * [Why](why.md)
 * [What](what/README.md)
   * [RWA MINTING](what/rwa-minting.md)
