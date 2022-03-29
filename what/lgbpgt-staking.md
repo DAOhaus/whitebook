@@ -4,13 +4,13 @@ description: >-
   protocol
 ---
 
-# LEGT STAKING
+# L£GT STAKING
 
 Given that the DAO will be maintaining liquidity pools and investing its profits, it can pass on profits generated to its staked members, until they find an individual investment that they want to enter into fully.
 
-The system will allow for LEGT to be staked in order to earn compounding interest, with the ability to pledge your staked amount to a number of projects that the LEGT DAO has approved and is willing to take on as collateral.  It is up to the staked member to determine which of any of the products is worth acquiring.&#x20;
+The system will allow for L£GT to be staked in order to earn compounding interest, with the ability to pledge your staked amount to a number of projects that the L£GT ĐAO has approved and is willing to take on as collateral.  It is up to the staked member to determine which of any of the products is worth acquiring.&#x20;
 
-How this looks to an end user is with your total amount of LEGT displayed, that is incrementing constantly at a set 8%, but fluctuates depending on general market conditions, that can be pledged fully or partially to many projects similar to kickstarter or go fund me.
+How this looks to an end user is with your total amount of L£GT displayed, that is incrementing constantly at a set 8%, but fluctuates depending on general market conditions, that can be pledged fully or partially to many projects similar to kickstarter or go fund me.
 
 As a project reaches completion in funding, the staked funds used to pledge are withdrawn and given to the proposed projects admin, and consequently lowers the total pledged on all other projects that this particular user was also interested in - favoring those projects that can gain quick consensus over those that take longer.  &#x20;
 

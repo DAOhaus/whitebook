@@ -22,7 +22,7 @@ Snap Crackle Pop! DAOhaus was born and LEGT was not far behind as DeFi Summer cr
 
 ### Backwards & Forwards
 
-My father was the in-house broker for a regional US Bank and commercial real estate instructor at organizations such as IREM and CCIM, and as such I naturally received spillover exposure to aspects of the real estate world.  He also was raised the son of a farmer and continued to maintain the agricultural standing of the land we lived on and stewarded while he was alive.\
+My father was the in-house broker for a regional US Bank and commercial real estate instructor at organizations such as IREM and CCIM, and as such I naturally received spillover exposure to aspects of the real estate world.  He also was raised the son of a farmer and continued to maintain the agricultural standing of the land we lived on and steward it while he was alive.\
 \
 Growing up against a rural background of river bottoms and open fields, I became involved with the scouting program and developed a proper respect and reverence for our amazing earth and the many systems and inhabitants thereof that create the delicate and beautiful balance of this world. I hold real estate not only as an economic commodity to be bought and sold, but as a powerful -- dare I say even spiritual -- force as our home among the stars in this complex and mystifying universe  ✨🚀 🌌
 

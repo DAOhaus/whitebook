@@ -2,9 +2,9 @@
 description: Who gets what for how much
 ---
 
-# Ecosystem Roles & Incentives
+# Roles & Incentives
 
-### **RWA Tokens - Mint & Token Specific**
+### **Mint & Token Specific**
 
 **Customer:** \
 People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet. \
@@ -20,7 +20,7 @@ Performs real world reclaiming and selling off of asset in case of the need to l
 
 
 
-### **LEGT DAO Tokenomics**&#x20;
+### **LEGT DAO**&#x20;
 
 Incentivize Early Adopters & Participation: 30%
 
@@ -38,4 +38,16 @@ Team & Bounties: 50%
 * Find, onboard and manage the assets in it's ecosystem, including liquidations
 * Maintain the LEGT / USDC pool using the cashflow generated from it's assets
 * Grow the ecosystem of tools and protocols that interface with LEGT
+
+
+
+### UBI
+
+Eventually internal team will rely upon a UBI model that pairs experience with a core living stipend that looks something similar to:\
+\
+UBI + 20k : Task Runner\
+UBI + 40k : Craftsman\
+UBI + 60k : Experienced\
+UBI + 100k : Critical\
+UBI + Comission : Sales
 

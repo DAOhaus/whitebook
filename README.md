@@ -1,8 +1,8 @@
 ---
-description: Financing real world assets collateralized against their governance tokens
+description: financing real world assets collateralized against their governance tokens
 ---
 
-# L£GT
+# intrø
 
 `The ultimate use of the house is not in its walls, but in that part where nothing exists. Profit comes from what is there, usefulness from what is not.`\
 `- Lao Tzu #11`\

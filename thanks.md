@@ -14,7 +14,7 @@ Many have contributed through ideas and conversations, currently looking to grow
 **Sarah Ribner** - CEO & Founder of consumer product brand Piper Wei.  Shark Tank Alumni, Forbes 30 under 30.  Advising on product market fit for fractional real estate, marketing, fundraising and branding initiatives.
 
 \
-It would be impossible for me to overlook the various other contributions that have come through many sources such as Skye Jensen, Jose E. Gonzalez, Brent Jones, Tucker Trussel, Yhyo, VG etc
+It would be impossible for me to overlook the various other contributions that have come through many sources such as Skye Jensen, Brian Christensen, Jose E. Gonzalez, Brent Jones, Tucker Trussel, Yhyo, VG etc
 
 
 
