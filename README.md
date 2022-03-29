@@ -26,7 +26,7 @@ This ecosystem is part of 3 principal branches that will encompass the tooling a
 
 Names have a funny way of changing as markets evolve and products become defined, but as of right now this encapsulates the efforts behind fundamental pillars of the **LEGT ĐAO** ecosystem:
 
-The minting and management of individual **L**egally **E**ndowed **G**overnance **T**okens via adherence to CAIP1776, the **L£GT** hybrid-stable pegged token, and the **LEGIQUITY** lending protocol.\
+The minting and management of individual **L**egally **E**ndowed **G**overnance **T**okens, the **L£GT** hybrid-stable pegged token, and the **LEGIQUITY** lending protocol.\
 \
 This document is intended to house the intellectual property, product & technical documentation along with philosophical reasonings behind the protocol. 📊 🤔 📄\
 \
