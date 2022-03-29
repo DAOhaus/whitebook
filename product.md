@@ -1,10 +1,10 @@
 ---
 description: >-
-  The product and how it serves the major long term stakeholders in ecosystem
-  serves.
+  user stories for the product and how it serves the major long term
+  stakeholders in ecosystem serves.
 ---
 
-# MVP & User Stories
+# product
 
 Technically the MVP will be built to anticipate its use across 4 major anticipated user segments. Residential, Commercial, Raw Land & Multiunit.  This document is to outline the user story associated with each of them as a requirements list for what the MVP will be able to perform in each respective vertical.
 

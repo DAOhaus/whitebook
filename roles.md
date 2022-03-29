@@ -1,8 +1,8 @@
 ---
-description: Who gets what for how much
+description: who does what, gets what and why
 ---
 
-# Roles & Incentives
+# roles
 
 ### **Mint & Token Specific**
 

@@ -2,11 +2,9 @@
 description: Lao Tzu <> German Architecture <> Banking
 ---
 
-# Ecosystem
+# ecosystem
 
-The L£GT ĐAO is an instance and type of DAO that follows our metastandard for governance of real world assets. ĐAOs of this sort will eventually be mintable and have dashboards at [□△○](https://daohaus.org) that then can be used within this protocol.
-
-## Parent Brand
+The L£GT ĐAO is an instance and type of DAO that follows a meta standard for governance of real world assets. ĐAOs of this sort will eventually be mintable and have dashboards at [□△○](https://daohaus.org) that then can be used within the protocol. At large it will then manage a group of assets that its members can use across the world.&#x20;
 
 \
 

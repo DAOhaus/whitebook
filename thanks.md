@@ -1,8 +1,8 @@
 ---
-description: Different strokes from different folks
+description: different strokes from different folks
 ---
 
-# Thanks
+# thanks
 
 Many have contributed through ideas and conversations, currently looking to grow the team and am grateful to all those who are willing to continue to give their time as our mission materializes.
 
