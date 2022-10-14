@@ -13,13 +13,10 @@
   * [L£GT STAKING](what/lgbpgt-staking.md)
 * [product](product.md)
 * [roles](roles.md)
-* [license](license.md)
+* [license](license/README.md)
+  * [CAIP-1776](license/caip-1776.md)
+* [law](law/README.md)
+  * [Law of the Splintered Paddle](law/law-of-the-splintered-paddle.md)
+  * [Legal Deceleration of DAO](law/legal-deceleration-of-dao.md)
+  * [Declaration of Delegation](law/declaration-of-delegation.md)
 * [thanks](thanks.md)
-
-## Group 1
-
-* [law](group-1/law/README.md)
-  * [Law of the Splintered Paddle](group-1/law/law-of-the-splintered-paddle.md)
-  * [Legal Deceleration of DAO](group-1/law/legal-deceleration-of-dao.md)
-  * [Declaration of Deletion](group-1/law/declaration-of-deletion.md)
-* [CAIP1776](group-1/caip1776.md)

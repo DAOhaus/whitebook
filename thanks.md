@@ -13,8 +13,9 @@ Many have contributed through ideas and conversations, currently looking to grow
 \
 **Sarah Ribner** - CEO & Founder of consumer product brand Piper Wei.  Shark Tank Alumni, Forbes 30 under 30.  Advising on product market fit for fractional real estate, marketing, fundraising and branding initiatives.
 
-\
-It would be impossible for me to overlook the various other contributions that have come through many sources such as Skye Jensen, Brian Christensen, Jose E. Gonzalez, Brent Jones, Tucker Trussel, Yhyo, VG etc
+**Skye Jensen** - Space Viking, Inspiration & Soul Brother who's involvement has been synergistic  and pivotal as an early space provider and a powerful force in helping expand my vision and align my thoughts, words and actions through a practice we have come to know as Destiny Engineering with interwoven strands through Private Member Associations, Native Lands & Personal Spiritual and Physical optimization.
+
+If you have contributed and want to be mentioned please contact us to be featured 🙏🏼
 
 
 
