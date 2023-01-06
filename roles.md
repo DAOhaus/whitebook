@@ -4,19 +4,23 @@ description: who does what, gets what and why
 
 # roles
 
-### **Mint & Token Specific**
+### Varying **Mint & Token Appreciation**
 
-**Customer:** \
+****
+
+The value and revenue created by the tokenization is split up in the following ways, and are liable to differ between each individual token:
+
+**Customer (adjustable):  \~20% Asset Increase**\
 People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet. \
 \
-**Mint, Manage & LP** **Fee:**\
-****Variable fee amount determined by services needed during mint, anywhere from 2%-50%.
+**Mint, Manage & LP** **Fee**\
+****Variable fee amount determined by services needed during mint, typically anywhere from 2%-50% depending on appetite of DAO and covers partial liquidation risk coverage.
 
-**Manager:** \
-Person in charge of operating the asset and translates off-chain revenue into our blockchain ecosystem, receives a % of the generated profits.
+**Operating Manager**\
+Group in charge of operating the asset and translates off-chain revenue into our blockchain ecosystem, receives a % of the generated profits in accordance with token holdings.
 
-**Liquidator:**\
-Performs real world reclaiming and selling off of asset in case of the need to liquidate.  Fee based by swing in asset price willing to tolerate as determined at moment of mint.&#x20;
+**Liquidator (adjustable)**\
+Performs real world reclaiming and selling off of asset in case of the need to liquidate.  Fee based by swing in asset price willing to tolerate as determined at moment of mint. This means to be in the position of buying DEBT on a ".50 cent on the dollar" ratio.
 
 
 
@@ -25,7 +29,7 @@ Performs real world reclaiming and selling off of asset in case of the need to l
 Incentivize Early Adopters & Participation: 30%
 
 * Token Drop to Airbnb and other short term rental owners
-* Fund liquidity providing rewards for early stakers and farmers
+* 11% Fund liquidity providing rewards variable on growth/time/metric.
 
 Strategic Partnerships: 20%
 
@@ -49,5 +53,5 @@ UBI + 20k : Task Runner\
 UBI + 40k : Craftsman\
 UBI + 60k : Experienced\
 UBI + 100k : Critical\
-UBI + Comission : Sales
+UBI + 11% + Craftsman + Comission : Sales
 

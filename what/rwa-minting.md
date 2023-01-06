@@ -6,7 +6,7 @@ description: >-
 
 # RWA MINTING
 
-With this tool, users will select which attributes they want to mint a token with. Our ecosystem's workflow will initially mint an NFT to be used in conjunction with it's fractional token of which a percentage is sent to the LEGT DAO.
+With this tool, users will select which attributes they want to mint a token with. Our ecosystem's workflow mints an NFT to be used in conjunction with its fractional token of which a percentage is staked and based in underlying L£GT.
 
 However, it should be able to exist on it's own as an open tool that provides multiple choices to fit variable use cases and gives options such as:
 
@@ -31,7 +31,7 @@ I foresee this token being used allow entry to the property, used as collateral 
 
 ### **Fungible DAO Governance Tokens: ERC20DAO**
 
-There needs to exist a link in the documents used by the group and the address performing the mint in order to prove that the mint was authorized.  At the end of the day, all that really matters is that the token holders can verify the authenticity of their token and that it hold up in a court of law.
+The underlying blockchain exists as a link for the documents used by the group and the address performing the mint.  At the end of the day, all that really matters is that the token holders can verify the authenticity of their token and that it hold up in a court of law.
 
 How this can look is by listing the public address in either the original documents, or if pre-existing documents are being used a notarized document linking the address that minted to an identity of an authorized agent of the Legal Entity.  These documents should be hosted somewhere that when inquired about by a token holder can be demonstrated in order to prove token asset link.
 
@@ -48,4 +48,6 @@ While a flat fee can be provided in order to use the standard minter, other func
 Doing this process alone can increase the value of your asset intrinsically.  Just minting a token that represents ownership in an LLC and then adding it to a platform such as uniswap is one way to revaluate your asset above what the normal appraisal process would traditionally assign it.  You can then use that token to pay for goods and services rather than taking out a home equity line of credit, which costs thousands of dollars and requires you to make monthly payments towards. &#x20;
 
 The LEGT DAO will be the first of its kind as an admin enabled ERC20 DAO token.  For already existing tokens there will be a bridge or wrapper created to allow for interoperability with legacy tokens without having to re-mint.
+
+[Token Minter](https://docs.openzeppelin.com/contracts/4.x/wizard)
 

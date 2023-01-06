@@ -1,8 +1,8 @@
 ---
 description: >-
   documents & other bits of legal information, backing and culture setting
-  standards that can be as specific and all encompassing as to apply to plants,
-  animals and minerals.
+  standards that can be as specific and all encompassing as desired in regard to
+  man and his property as a sovereign entity
 ---
 
 # law

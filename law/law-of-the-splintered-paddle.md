@@ -4,13 +4,13 @@ description: God Fearing, Zionist, Let People Be, Peace Enforcing, Community Law
 
 # Law of the Splintered Paddle
 
-Oh people,\
-Honor thy god;\
-respect alike \[the rights of] people both great and humble;\
+Oh people\
+Honor thy god\
+respect alike \[the rights of] people both great and humble\
 May everyone, from the old men and women to the children\
-Be free to go forth and lie in the road (i.e. by the roadside or pathway)\
-Without fear of harm.\
-Break this law, and die.
+Be free to go forth and lie in the road\
+Without fear of harm\
+Break this law, and die
 
 🔖 [Illustration](http://www.hawaii.edu/uhelp/files/LawOfTheSplinteredPaddle.pdf)
 
