@@ -12,9 +12,7 @@ The DAO recognizes unrealized value in the property, with a $300,000 valuation a
 * 20% AMM position using USDC / BNBT pair  - 10 / $32,000
 * 31% BANK SAFE STAKE minimum - $49,600
 
-Yes, these numbers add up to 111%
-
-11% is the interest rate we pay our members for their staked contributions in accordance to the protocol incentive structure, this rate is the expected ROI for assets taken under DAO management with a guarantee to withhold until mass vote or to protect it's payments a 40% Revenue drop to trigger AMM withdrawal vote at $21,000/yr losses.
+an amount of considerable amount is needed in order to protect the DAOs entitlement incase of a Revenue Drop to Trigger for AMM Liquidity, for example revenues dropping 20% or $21,000/yr in operating losses.
 
 The asset will be collateralized at a secure liquidation price of $160,000 in order to account for pricing risks during a real world liquidation event.
 
