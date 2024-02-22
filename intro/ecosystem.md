@@ -11,7 +11,7 @@ The L£GT ĐAO is an instance and type of DAO that follows a meta standard for g
 
 ![](../.gitbook/assets/logo.png)
 
-****\
+\
 **DAO** - Both the acronym [for decentralized autonomous organizations](https://en.wikipedia.org/wiki/Decentralized\_autonomous\_organization), and also a spelling for the eastern spiritual path in search for the idealized the way human beings ought to behave in society and with nature.
 
 **HAUS** - German - the word has become a trendy staple in our zeitgeist. Its integration mixes well as our principal concern is with real assets and also holds space as describing an umbrella brand or firm.

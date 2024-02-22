@@ -6,7 +6,7 @@ description: who does what, gets what and why
 
 ### Varying **Mint & Token Appreciation**
 
-****
+
 
 The value and revenue created by the tokenization is split up in the following ways, and are liable to differ between each individual token:
 
@@ -14,7 +14,7 @@ The value and revenue created by the tokenization is split up in the following w
 People who optimize profit via non-traditional assets, looks like onboarding their homes into the system and allowing us to setup their Wallet. \
 \
 **Mint, Manage & LP** **Fee**\
-****Variable fee amount determined by services needed during mint, typically anywhere from 2%-50% depending on appetite of DAO and covers partial liquidation risk coverage.
+Variable fee amount determined by services needed during mint, typically anywhere from 2%-50% depending on appetite of DAO and covers partial liquidation risk coverage.
 
 **Operating Manager**\
 Group in charge of operating the asset and translates off-chain revenue into our blockchain ecosystem, receives a % of the generated profits in accordance with token holdings.

@@ -6,9 +6,9 @@ description: financing real world assets collateralized against their governance
 
 `The ultimate use of the house is not in its walls, but in that part where nothing exists. Profit comes from what is there, usefulness from what is not.`\
 `- Lao Tzu #11`\
-****
 
-While real estate tokens have existed for years, you will see that this ecosystem really is **** valuable not only in what it does, but what it leaves undone, allowing for human and off-chain systems to more efficiently or morally handle the collective needs and obligations of an asset.\
+
+While real estate tokens have existed for years, you will see that this ecosystem really is valuable not only in what it does, but what it leaves undone, allowing for human and off-chain systems to more efficiently or morally handle the collective needs and obligations of an asset.\
 \
 Inherently it is a doorway and catalyst for many other asset classes to be re-evaluated using custom fitted valuation models.  This will open a new wave of finance and supply for material goods to be represented via blockchain tokens and integrated into DeFi.
 

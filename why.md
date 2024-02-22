@@ -4,7 +4,7 @@ description: >-
   them
 ---
 
-# Why
+# why
 
 ## **Short Version**
 
@@ -28,7 +28,7 @@ Same principal applies to transferring ownership when a partner in a LLC desires
 
 ### **Finance**
 
-Existing loans that are backed purely by assets aren't commonly geared towards or accessible **** to the common layman. Our ecosystem will mimic other platforms that allow you to finance a loan using your collateralized crypto asset to solve for this.  Also, if the house being tokenized is generating revenue, such as on Airbnb, the **actual value could well be above** that which it is traditionally appraised and assigned when viewed as a typical residential unit.
+Existing loans that are backed purely by assets aren't commonly geared towards or accessible to the common layman. Our ecosystem will mimic other platforms that allow you to finance a loan using your collateralized crypto asset to solve for this.  Also, if the house being tokenized is generating revenue, such as on Airbnb, the **actual value could well be above** that which it is traditionally appraised and assigned when viewed as a typical residential unit.
 
 ### **Adaptability**
 

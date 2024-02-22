@@ -19,4 +19,5 @@
   * [Law of the Splintered Paddle](law/law-of-the-splintered-paddle.md)
   * [Legal Deceleration of DAO](law/legal-deceleration-of-dao.md)
   * [Declaration of Delegation](law/declaration-of-delegation.md)
+* [anon](anon.md)
 * [thanks](thanks.md)

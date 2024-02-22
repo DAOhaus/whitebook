@@ -6,7 +6,7 @@ description: different strokes from different folks
 
 Many have contributed through ideas and conversations, currently looking to grow the team and am grateful to all those who are willing to continue to give their time as our mission materializes.
 
-****\
+\
 **Renat Khasanshyn** - Founding member and contributor to projects such as Maker DAI, Ethrisc, Atomica & Protofire. Deep experience with risk assessment, profiling and technical architecture.&#x20;
 
 **Robert Crager** - Real Estate developer, principal at PR Consultants with years of experience forming land trusts, general partnerships, managing construction and airbnb operations in multiple jurisdictions for hundreds of deals.\
